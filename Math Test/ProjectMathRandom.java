@@ -2,8 +2,8 @@
 /**
  * Write a description of class ProjectMathRandom here.
  *
- * @author (Vivaan)
- * @version (1.2)
+ * @author (Aryan)
+ * @version (2.0)
  */
 import java.util.*; 
 import java.text.DateFormat;
@@ -114,7 +114,7 @@ public class ProjectMathRandom
       System.out.println("\f");
     }
       System.out.println("                                        ╔════════════════════════════════════════════════════╗         ");
-      System.out.println("                                        ║Name:"+name+"              𝕃𝕚𝕝𝕪𝕔𝕠𝕧𝕖 𝕄𝕒𝕥𝕥𝕤                      ║         ");
+      System.out.println("                                        ║Name:"+name+"                                       ║         ");
       System.out.println("                                        ║Date:"+ dateF.format(date) +"                                ║         ");
       System.out.println("                                        ║Time:"+ timeF.format(date) +"                                ║         ");
       System.out.println("                                        ║Class:"+classDiv+"                                           ║         ");
